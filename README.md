@@ -284,6 +284,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [ClipDrop](https://clipdrop.co) — Remove backgrounds, upscale, relight, and generate images. Powered by Stability AI. `#free`
 - [Remove.bg](https://remove.bg) — Instant, accurate background removal in one click. `#free`
 - [Photoroom](https://photoroom.com) — Professional product and portrait photos generated from your phone. `#free`
+- [ClearCrowds](https://www.clearcrowds.com) — AI photo cleanup editor for removing crowds, objects, shadows, glare, glasses, and product-photo distractions with focused presets.
 - [Lensa](https://prisma-ai.com/lensa) — AI avatar and portrait enhancement app with stylized filters.
 - [Magnific AI](https://magnific.ai) — AI upscaling and creative enhancement with intelligent hallucination.
 - [PhotoRestore.ai](https://photorestore.ai) — AI-powered restoration of old and damaged photos. Repairs scratches, tears, fading, and colorizes B&W images.
@@ -876,5 +877,4 @@ git commit -m "Add [Tool Name] to [Category]"
 
 # 5. Push and open a Pull Request
 git push origin add/tool-name
-
 
