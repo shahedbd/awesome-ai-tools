@@ -246,6 +246,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Frase](https://frase.io) — Research, write, and optimize SEO content in a single workflow.
 - [Clearscope](https://clearscope.io) — Content optimization graded against top-ranking pages in your niche.
 - [Moonbeam](https://moonbeam.ai) — Long-form AI writing assistant designed for blogs and essays.
+- [Screpy](https://screpy.com/) — AI-assisted SEO platform for technical audits, keyword tracking, Core Web Vitals, and editable article drafts.
 
 ### Summarization & Document AI
 
