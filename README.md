@@ -200,6 +200,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Aider](https://aider.chat) — Terminal-based AI pair programmer that edits code directly in your local git repo. `#opensource` `#free`
 - [Plandex](https://plandex.ai) — Open-source terminal AI engine built for complex, multi-file coding tasks. `#opensource` `#free`
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) — Open-source Devin alternative with a growing community. `#opensource` `#free` `#selfhost`
+- [Better Agent](https://github.com/ofekron/better-agent) — Local workspace for running and inspecting Claude, Codex, and Gemini coding-agent sessions, with parallel forks, delegation, and restart recovery. `#free`
 
 ### AI App Builders (Vibe Coding)
 
@@ -884,4 +885,3 @@ git commit -m "Add [Tool Name] to [Category]"
 
 # 5. Push and open a Pull Request
 git push origin add/tool-name
-
