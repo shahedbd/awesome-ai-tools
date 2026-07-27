@@ -339,6 +339,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 
 ### Text-to-Speech & Voice Cloning
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - ⭐ [ElevenLabs](https://elevenlabs.io) — Ultra-realistic voice synthesis and cloning in 29+ languages with emotion control. `#free`
 - [Murf AI](https://murf.ai) — Professional voiceover platform with 120+ AI voices for any content type. `#free`
 - [Play.ht](https://play.ht) — Realistic text-to-speech with custom voice cloning capabilities. `#free`
