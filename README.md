@@ -175,6 +175,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [DeepSeek Chat](https://chat.deepseek.com) — DeepSeek's assistant, exceptional for coding and math tasks. `#free`
 - [Kagi Assistant](https://kagi.com/assistant) — Privacy-first AI assistant with no ads, integrated with Kagi search.
 - [Character.AI](https://character.ai) — Create and chat with custom AI personas. Popular for entertainment and roleplay. `#free`
+- [GPTGeminiGrok.AI](https://trygrokai.asia/) — Multi-model browser workspace for GPT, Gemini, Grok, and Claude, with integrated AI image generation.
 - [Auferet](https://auferet.com) — AI game master for solo text adventures and tabletop RPGs that remembers your story and reads your own uploaded lore. `#free`
 - [Pi](https://pi.ai) — Inflection AI's empathetic conversational assistant focused on emotional support. `#free`
 
