@@ -298,6 +298,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [VectorArt.ai](https://vectorart.ai) — Create clean, scalable vector images with AI.
 - [Civitai](https://civitai.com) — Community hub for sharing and downloading Stable Diffusion models and LoRAs. `#free`
 - [OpenArt](https://openart.ai) — Search 10M+ AI-generated images and prompts for inspiration. `#free`
+- [YingTu](https://yingtu.ai/en) — Browser playground for testing AI image and video API routes, prompts, reference inputs, task status, and downloads before integration. `#api`
 
 ---
 
