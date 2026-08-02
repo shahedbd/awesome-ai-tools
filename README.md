@@ -281,6 +281,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 
 ### Image Editing & Enhancement
 
+- [AIImageChanger.app](https://aiimagechanger.app) — Edit backgrounds, objects, clothing, colors, text, and styles in uploaded images with plain-language prompts, choosing among several AI models in one browser editor.
 - [Adobe Photoshop (AI)](https://adobe.com/photoshop) — Generative Fill, Remove, and Expand powered by Firefly AI.
 - [Canva AI](https://canva.com) — Magic Edit, Magic Eraser, and AI image generation inside a full design platform. `#free`
 - [ClipDrop](https://clipdrop.co) — Remove backgrounds, upscale, relight, and generate images. Powered by Stability AI. `#free`
