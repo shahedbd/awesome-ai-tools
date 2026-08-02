@@ -277,6 +277,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Playground AI](https://playground.ai) — Free AI image creator with multiple model options and styles. `#free`
 - [Reve Image](https://reve.art) — Strong prompt adherence and photorealism. `#free` 🔥
 - [Krea AI](https://krea.ai) — Real-time AI generation and image enhancement tools. `#free`
+- [Rao Edits](https://raoedits.top/) — Browser-based text-to-image and reference-image editing for creator, marketing, social, and CapCut visuals.
 - [Seedream AI Studio](https://seedream4.video) — Multi-model platform by ByteDance (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena. Up to 10 reference images + Kling 2.1 video generation. `#free` 🔥
 
 ### Image Editing & Enhancement
