@@ -227,6 +227,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 
 ## 📝 AI Writing & Content
 
+- [TranslateScan](https://translatescan.com) - AI translator for scanned PDFs, photos, and documents preserving original layout.
 ### General Writing Assistants
 
 - ⭐ [Grammarly](https://grammarly.com) — Grammar, tone, clarity, and plagiarism checking. Integrates with 500K+ apps and browsers. `#free`
