@@ -526,6 +526,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Phind](https://phind.com) — AI search engine optimized for developers and technical questions. `#free`
 - [Elicit](https://elicit.com) — AI research assistant for literature review and academic paper analysis. `#free`
 - [Consensus](https://consensus.app) — Search engine that extracts answers directly from scientific research. `#free`
+- [IdeaHunter](https://ideahunter.today) — AI research for startup ideas, market evidence, and MVP scope. `#free`
 - [SciSpace](https://typeset.io) — AI chat for scientific PDFs with explanations of math and tables. `#free`
 - [NotebookLM](https://notebooklm.google.com) — Google's AI for chatting with your own documents and generating audio overviews. `#free`
 - [Semantic Scholar](https://semanticscholar.org) — AI-powered academic search by the Allen Institute for AI. `#free`
