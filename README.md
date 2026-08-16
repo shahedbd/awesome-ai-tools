@@ -509,6 +509,7 @@ Monitor, debug, and improve your LLM applications in production.
 
 MCP is an open standard by Anthropic for connecting AI models to external data sources and tools.
 
+- [Agent QA](https://github.com/vostride/agent-qa) — MCP server for natural-language web/mobile QA with persistent test memory and self-healing flows. `#free`
 - [MCP Specification](https://modelcontextprotocol.io) — Official MCP documentation and specification. `#opensource`
 - [MCP Servers (Official)](https://github.com/modelcontextprotocol/servers) — Reference MCP server implementations for common integrations. `#opensource`
 - [ToolHive](https://toolhive.io) — Find and deploy MCP servers with one click. `#free`
@@ -884,4 +885,3 @@ git commit -m "Add [Tool Name] to [Category]"
 
 # 5. Push and open a Pull Request
 git push origin add/tool-name
-
