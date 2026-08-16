@@ -323,6 +323,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Descript](https://descript.com) — Edit video by editing the transcript. Includes Overdub voice cloning, screen recording, and AI captions. `#free`
 - [CapCut](https://capcut.com) — TikTok's AI video editor with auto-captions, effects, and viral templates. `#free`
 - [InVideo AI](https://invideo.io) — Turn text scripts into polished videos with AI voiceovers and stock footage. `#free`
+- [videos.social](https://videos.social/?utm_source=shahedbd-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d) — Turn blogs, PDFs, and prompts into an editable faceless video (script, scenes, voiceover). `#free`
 - [Opus Clip](https://opus.pro) — Automatically repurpose long-form videos into viral short clips. `#free`
 - [Captions](https://captions.ai) — AI video creator with auto-captions, eye contact correction, and translation.
 
