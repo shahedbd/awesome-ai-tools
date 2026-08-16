@@ -498,6 +498,7 @@ Monitor, debug, and improve your LLM applications in production.
 
 ### Evaluation & Testing
 
+- [Agent QA](https://github.com/vostride/agent-qa) — Source-available harness for natural-language web and mobile application tests, with a CLI, dashboard, and MCP server. `#selfhost`
 - [RAGAS](https://ragas.io) — RAG evaluation measuring faithfulness, relevance, and context recall. `#opensource` `#free`
 - [DeepEval](https://deepeval.com) — LLM evaluation framework with 14+ built-in metrics. `#opensource` `#free`
 - [Promptfoo](https://promptfoo.dev) — Test and evaluate LLM prompts with automated red-teaming. `#opensource` `#free`
