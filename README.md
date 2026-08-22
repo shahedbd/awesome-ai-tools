@@ -298,6 +298,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [VectorArt.ai](https://vectorart.ai) — Create clean, scalable vector images with AI.
 - [Civitai](https://civitai.com) — Community hub for sharing and downloading Stable Diffusion models and LoRAs. `#free`
 - [OpenArt](https://openart.ai) — Search 10M+ AI-generated images and prompts for inspiration. `#free`
+- [dsh-labnana](https://github.com/exoticknight/dsh-labnana) — Image generation for DeepSeek Harness: text-to-image, image-to-image, precise editing via the Labnana API (NanoBanana Pro, GPT-Image-2, Wan2.7, Seedream). `#opensource`
 
 ---
 
