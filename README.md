@@ -320,6 +320,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 
 ### AI Video Editing & Production
 
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Local-first CLI and MCP toolkit for coding-agent video production with editable `plan.json` timelines. `#opensource` `#free`
 - [Descript](https://descript.com) — Edit video by editing the transcript. Includes Overdub voice cloning, screen recording, and AI captions. `#free`
 - [CapCut](https://capcut.com) — TikTok's AI video editor with auto-captions, effects, and viral templates. `#free`
 - [InVideo AI](https://invideo.io) — Turn text scripts into polished videos with AI voiceovers and stock footage. `#free`
@@ -884,4 +885,3 @@ git commit -m "Add [Tool Name] to [Category]"
 
 # 5. Push and open a Pull Request
 git push origin add/tool-name
-
