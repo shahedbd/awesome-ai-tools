@@ -603,6 +603,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 ### 3D Generation
 
 - [Meshy AI](https://meshy.ai) — Text and image to 3D model generation. Optimized for game-ready assets. `#free`
+- [Luphra](https://www.luphra.com) — Prompt-to-matter: AI text/sketch to editable 3D and manufactured physical products.
 - [Spline AI](https://spline.design) — 3D design tool with AI generation and direct web publishing. `#free`
 - [Luma Genie](https://lumalabs.ai/genie) — High-quality 3D object generation from text prompts. `#free`
 - [Tripo3D](https://tripo3d.ai) — Fast, high-quality 3D model generation for any use case. `#free`
