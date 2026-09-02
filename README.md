@@ -633,6 +633,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 
 - [Buffer AI](https://buffer.com) — AI-assisted social media scheduling and content creation. `#free`
 - [FeedHive](https://feedhive.io) — AI-powered social media management with performance prediction. `#free`
+- [BulkPublish](https://github.com/azeemkafridi/bulkpublish-api) — API and reusable AI-agent skills for planning, adapting, reviewing, scheduling, and publishing social media content across channels.
 - [Taplio](https://taplio.com) — AI LinkedIn content creation, scheduling, and analytics.
 - [Postwise](https://postwise.ai) — AI tweet and LinkedIn post writer with viral hook suggestions.
 
@@ -884,4 +885,3 @@ git commit -m "Add [Tool Name] to [Category]"
 
 # 5. Push and open a Pull Request
 git push origin add/tool-name
-
