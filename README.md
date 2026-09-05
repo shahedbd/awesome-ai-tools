@@ -831,6 +831,7 @@ Track the state of the art across different AI capabilities.
 
 | Newsletter | Focus | Frequency |
 |---|---|---|
+| [AI Weekly](https://aiweekly.co/) | Models, agents, research & policy ranked from expert signals | 3x weekly |
 | [The Batch](https://deeplearning.ai/the-batch/) | AI research & industry news | Weekly |
 | [Import AI](https://jack-clark.net) | Technical AI research summaries | Weekly |
 | [The Rundown AI](https://therundown.ai) | Daily AI news digest | Daily |
@@ -884,4 +885,3 @@ git commit -m "Add [Tool Name] to [Category]"
 
 # 5. Push and open a Pull Request
 git push origin add/tool-name
-
