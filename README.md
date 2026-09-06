@@ -656,6 +656,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Kustomer](https://kustomer.com) — AI-first CRM built specifically for customer service teams.
 - [Crisp](https://crisp.chat) — Shared inbox with AI chatbot and automation for small teams. `#free`
 - [Helpshift](https://helpshift.com) — AI-powered mobile customer support with in-app messaging.
+- [IrisAgent](https://irisagent.com/ai-for-customer-support/) — Grounded AI support overlay for Zendesk, Salesforce, Intercom, and Freshworks (chat, email, voice, SMS). Live in ~24 hours; resolution-oriented pricing.
 - [Manychat](https://manychat.com) — Conversational marketing and automation platform for Instagram DMs, WhatsApp, Facebook Messenger, and SMS. Uses AI to automate lead capture, customer replies, and sales funnels at scale. Widely adopted by e-commerce and creator businesses. `#free`
 
 ---
