@@ -229,6 +229,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 
 ### General Writing Assistants
 
+- ⭐ [ResumeAI](https://withresumeai.com/) — AI resume builder + free ATS checker for job seekers. `#free`
 - ⭐ [Grammarly](https://grammarly.com) — Grammar, tone, clarity, and plagiarism checking. Integrates with 500K+ apps and browsers. `#free`
 - ⭐ [Jasper](https://jasper.ai) — Enterprise-grade content platform with brand voice controls, 50+ templates, and team collaboration.
 - [Copy.ai](https://copy.ai) — Specializes in marketing copy, ad content, and automated content workflows. `#free`
