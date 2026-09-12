@@ -554,6 +554,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Fathom](https://fathom.video) — Free AI meeting recorder and notetaker with CRM sync. `#free`
 - [MeetGeek](https://meetgeek.ai) — AI meeting assistant with CRM integration and team insights. `#free`
 - [Cogram](https://cogram.com) — Automatic meeting notes and action item extraction.
+- [Botik](https://github.com/777genius/discord-meeting-assistant) — Self-hosted Discord meeting assistant: records calls, transcripts, summaries, and Q&A. `#oss`
 
 ### Email & Calendar
 
