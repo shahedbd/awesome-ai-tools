@@ -418,6 +418,10 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Notte](https://notte.cc) — Fast, reliable browser agent framework for production use. `#opensource`
 - [AgentQL](https://agentql.com) — Query language for AI agents to interact with web page elements. `#free`
 
+### Autonomous Ops Agents
+
+- [Solgrok](https://github.com/LMajster/sgrok) — Autonomous 24/7 Solana creator-ops agent (promo, fee claim, reward sweep) with public site. `#opensource` `#free`
+
 ---
 
 ## 🛠️ Developer Infrastructure
