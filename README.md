@@ -278,6 +278,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Reve Image](https://reve.art) — Strong prompt adherence and photorealism. `#free` 🔥
 - [Krea AI](https://krea.ai) — Real-time AI generation and image enhancement tools. `#free`
 - [Seedream AI Studio](https://seedream4.video) — Multi-model platform by ByteDance (Seedream 5.0/4.5/4.0), ranked #1 in AI Image Arena. Up to 10 reference images + Kling 2.1 video generation. `#free` 🔥
+- [MagicKit](https://github.com/kaketiti/magickit) — Free, open-source AI toolbox combining FLUX image generation, AI writing, and video creation. No sign-up, no API key needed. `#free` `#opensource`
 
 ### Image Editing & Enhancement
 
