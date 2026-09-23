@@ -762,6 +762,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 ---
 
 ## 📚 Learning Resources
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official AI incident references, with a browser-local personal timer; no private account access or timing guarantees.
 
 ### Courses & Certifications
 
