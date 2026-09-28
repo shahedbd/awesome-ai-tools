@@ -274,6 +274,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Ideogram 2.0](https://ideogram.ai) — Best-in-class text rendering within generated images. `#free`
 - [Flux (Black Forest Labs)](https://blackforestlabs.ai) — State-of-the-art open-weight image generation (Flux.1 Pro/Dev/Schnell). `#opensource` 🔥
 - [Leonardo AI](https://leonardo.ai) — Fine-tuned models for game assets, concept art, and consistent characters. `#free`
+- [Raphael AI](https://raphael.app) — Free text-to-image generator for designers and creators; core generation without a signup wall. `#free`
 - [Playground AI](https://playground.ai) — Free AI image creator with multiple model options and styles. `#free`
 - [Reve Image](https://reve.art) — Strong prompt adherence and photorealism. `#free` 🔥
 - [Krea AI](https://krea.ai) — Real-time AI generation and image enhancement tools. `#free`
