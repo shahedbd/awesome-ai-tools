@@ -568,6 +568,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [ClickUp AI](https://clickup.com/ai) — AI writing, summarization, and automation within the ClickUp platform. `#free`
 - [Asana AI](https://asana.com/ai) — AI project management with smart workflows and predictive insights.
 - [Linear](https://linear.app) — Fast, opinionated project management with AI-powered issue creation and triage.
+- [Tale](https://github.com/tale-project/tale) — Shared project workspace for people and AI agents, with task delegation, persistent sandboxes, and human review of reports and files. `#opensource` `#selfhost`
 
 ### Presentation & Slides
 
