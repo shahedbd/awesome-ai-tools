@@ -165,6 +165,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - ⭐ [ChatGPT](https://chat.openai.com) — The world's most popular AI assistant. Supports GPT-4o with multimodal inputs, web browsing, code execution, image generation, and persistent memory. `#free`
 - ⭐ [Claude](https://claude.ai) — Anthropic's assistant, praised for thoughtful long-form writing, nuanced reasoning, and safety. Excellent for document analysis and coding. `#free`
 - ⭐ [Gemini](https://gemini.google.com) — Google's multimodal assistant with deep integration into Workspace, YouTube, and Search. Advanced tier uses the 2M-token Pro model. `#free`
+- [AI Group Call](https://aigroupcall.app) - Facilitate a live AI panel: agents answer one at a time, build on each other, and leave notes and action items after the call.
 - [Microsoft Copilot](https://copilot.microsoft.com) — GPT-4o powered, integrated across Windows, Office, Bing, and Edge. `#free`
 - [Grok](https://grok.x.ai) — xAI's assistant with real-time X (Twitter) data access and strong STEM capabilities. `#free`
 - [Meta AI](https://ai.meta.com) — Available across WhatsApp, Instagram, Facebook, and Messenger. Powered by Llama 4. `#free`
