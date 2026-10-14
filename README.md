@@ -291,6 +291,8 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Magnific AI](https://magnific.ai) — AI upscaling and creative enhancement with intelligent hallucination.
 - [PhotoRestore.ai](https://photorestore.ai) — AI-powered restoration of old and damaged photos. Repairs scratches, tears, fading, and colorizes B&W images.
 
+- [만화 번역기 AI](https://www.mangatranslate.com/ko/ai-manga-translator/) — Ficory LLC의 기업급 도구는 100개 이상의 언어와 지원되는 모든 번역 언어로 만화를 번역하고, 개인의 일괄·맞춤 번역과 스튜디오용 완전한 온라인 Photoshop 편집기를 제공하며, API로 개인 작업 흐름을 연결합니다. `#api` `#free`
+
 ### Specialized Image Tools
 
 - [Headshot Pro](https://headshotpro.com) — Generate professional AI headshots from casual photos.
