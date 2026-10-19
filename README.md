@@ -532,6 +532,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Connected Papers](https://connectedpapers.com) — Visualize citation connections between academic papers. `#free`
 - [Sourcely](https://sourcely.net) — AI-powered academic citation finder for students and researchers. `#free`
 - [MemFree](https://memfree.me) — Open-source hybrid AI search for the internet, bookmarks, and personal docs. `#opensource` `#free`
+- [Pulse](https://pulsecorp.co) — AI-moderated market research platform that runs customer interviews at scale.
 
 ---
 
