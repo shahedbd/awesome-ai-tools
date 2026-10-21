@@ -853,6 +853,7 @@ Track the state of the art across different AI capabilities.
 - [Awesome Generative AI](https://github.com/steven2358/awesome-generative-ai) — Generative AI tools and resources.
 - [Awesome Open Source AI](https://github.com/alvinreal/awesome-opensource-ai) — Open-source AI projects worth knowing.
 - [Awesome Vibe Coding](https://github.com/filipecalegario/awesome-generative-ai) — AI-assisted coding tools and workflows.
+- [Awesome AI Agents (ianwieds)](https://github.com/ianwieds/awesome-ai-agents) — AI agent frameworks, coding and browser agents, memory, sandboxes, and evaluation tools.
 
 ---
 
