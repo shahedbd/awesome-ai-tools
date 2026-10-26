@@ -253,6 +253,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Gist AI](https://www.gistai.tech) — Summarize websites, YouTube videos, and PDFs with ChatGPT. `#free`
 - [ChatPDF](https://www.chatpdf.com) — Upload any PDF and ask questions about its content. `#free`
 - [SciSpace](https://typeset.io) — AI chat for scientific papers with explanations of math, tables, and figures. `#free`
+- [SummarizAI](https://summarizai.ink) — Chrome extension that adds an AI summary, chapters, chat, and Study flashcards to the YouTube watch page. `#free`
 
 ### Email Writing
 
