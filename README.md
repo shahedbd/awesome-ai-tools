@@ -753,6 +753,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Vellum](https://vellum.ai) — Prompt engineering, testing, and deployment platform for teams. `#free`
 - [PromptBase](https://promptbase.com) — Marketplace for buying and selling high-quality prompts.
 - [FlowGPT](https://flowgpt.com) — Community for sharing and discovering prompts across use cases. `#free`
+- [PicGens](https://www.picgens.com) — Free gallery of AI image & photo prompts with results, models, and creator sources. `#free`
 
 ### Guides & Resources
 
