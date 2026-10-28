@@ -306,6 +306,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - ⭐ [Google Veo 3.1](https://deepmind.google/technologies/veo/) — Google's high-fidelity video generation with native audio, 1080p/4K output, and strong physics simulation.
 - 🔥 [Google Flow](https://labs.google/fx/tools/flow) — Google's AI filmmaking studio built exclusively on DeepMind's most advanced models: Veo (video), Imagen (images), and Gemini (language). Designed for cinematic storytelling with native audio generation via Veo 3.1. Supports scene-level narrative control and immersive sound-visual pairing. `#free`
 - 🔥 [Higgsfield](https://higgsfield.ai) — Cinematic AI video generation platform with a strong focus on character consistency and fine-grained motion control. Popular among creators for producing high-quality, stylized short-form video content with controllable camera movement.
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [ImagineClip](https://imagineclip.com) — AI video generator for avatar clips, stylized scenes, and social-ready videos from prompts, images, and effects. `#free`
 - [Kling AI](https://klingai.com) — Kuaishou's video model with excellent motion quality and longer clip support. `#free`
 - [Pika Labs](https://pika.art) — Quick, accessible video generation with intuitive style controls. `#free`
