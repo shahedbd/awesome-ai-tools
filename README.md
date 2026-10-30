@@ -292,6 +292,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Headshot Pro](https://headshotpro.com) — Generate professional AI headshots from casual photos.
 - [PhotoOmni](https://photoomni.com/en) — Prepare passport and visa photos with country-specific checks for dimensions, background, face positioning, and image quality, plus optional expert review.
 - [StockPhotoAI](https://stockphotoai.net) — Generate royalty-free stock photos on demand for any use case.
+- [EmptyRoom AI](https://emptyroomai.com) — AI virtual staging for real estate listing photos. Furnish vacant rooms in any style from a single photo.
 - [VectorArt.ai](https://vectorart.ai) — Create clean, scalable vector images with AI.
 - [Civitai](https://civitai.com) — Community hub for sharing and downloading Stable Diffusion models and LoRAs. `#free`
 - [OpenArt](https://openart.ai) — Search 10M+ AI-generated images and prompts for inspiration. `#free`
