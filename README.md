@@ -260,6 +260,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 
 ## 🖼️ AI Image Generation
 
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 ### Text-to-Image Models
 
 - ⭐ [Midjourney](https://midjourney.com) — Industry standard for artistic, high-quality image generation. V8 delivers photorealism and style consistency.
