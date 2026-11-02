@@ -283,6 +283,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Photoroom](https://photoroom.com) — Professional product and portrait photos generated from your phone. `#free`
 - [ClearCrowds](https://www.clearcrowds.com) — AI photo cleanup editor for removing crowds, objects, shadows, glare, glasses, and product-photo distractions with focused presets.
 - [HairWow](https://www.gohairwow.com) — AI hairstyle, hair color, and beard style try-on from one photo. `#free`
+- [AI Clothes Changer](https://aiclotheschanger.net) — Browser AI virtual try-on that changes outfits on a photo in one click. `#free`
 - [Lensa](https://prisma-ai.com/lensa) — AI avatar and portrait enhancement app with stylized filters.
 - [Magnific AI](https://magnific.ai) — AI upscaling and creative enhancement with intelligent hallucination.
 - [PhotoRestore.ai](https://photorestore.ai) — AI-powered restoration of old and damaged photos. Repairs scratches, tears, fading, and colorizes B&W images.
