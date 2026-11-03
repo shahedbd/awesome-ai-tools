@@ -313,6 +313,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Hailuo AI (MiniMax)](https://hailuoai.video) — Strong motion consistency and character animation. `#free`
 - [Pixverse](https://pixverse.ai) — Versatile video generation with effects and smooth transitions. `#free`
 - [Magic Hour](https://magichour.ai/products/image-to-video) — Animate a still image in the browser with an optional motion prompt and download an MP4; limited free access and paid plans. `#api`
+- [Seedance Now](https://seedancenow.com) — Multi-model text-to-video and image-to-video studio (Seedance 2.5, Kling 4.0, Wan 3.0), clips up to 30s at 1080p with no watermark. Independent, not affiliated with ByteDance. `#free`
 
 ### AI Video Editing & Production
 
