@@ -286,6 +286,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Lensa](https://prisma-ai.com/lensa) — AI avatar and portrait enhancement app with stylized filters.
 - [Magnific AI](https://magnific.ai) — AI upscaling and creative enhancement with intelligent hallucination.
 - [PhotoRestore.ai](https://photorestore.ai) — AI-powered restoration of old and damaged photos. Repairs scratches, tears, fading, and colorizes B&W images.
+- [Nano Banana Live](https://nano-banana.live) — Browser guide and demo for Google's Nano Banana (Gemini image) model: prompt-based edits, multi-image blending, and cloud-vs-local notes. `#free`
 
 ### Specialized Image Tools
 
