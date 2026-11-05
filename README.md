@@ -842,6 +842,7 @@ Track the state of the art across different AI capabilities.
 | [AI Breakfast](https://aibreakfast.beehiiv.com) | Morning AI news roundup | Daily |
 | [Ahead of AI](https://magazine.sebastianraschka.com) | Deep dives into ML research | Monthly |
 | [The Gradient](https://thegradient.pub) | Long-form AI research analysis | Irregular |
+| [AnyMessages (听说了吗)](https://anymesgs.com) | Daily AI news explained from first-hand sources; ZH/EN/JA | Daily |
 
 ---
 
