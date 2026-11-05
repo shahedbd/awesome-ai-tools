@@ -313,12 +313,14 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Hailuo AI (MiniMax)](https://hailuoai.video) — Strong motion consistency and character animation. `#free`
 - [Pixverse](https://pixverse.ai) — Versatile video generation with effects and smooth transitions. `#free`
 - [Magic Hour](https://magichour.ai/products/image-to-video) — Animate a still image in the browser with an optional motion prompt and download an MP4; limited free access and paid plans. `#api`
+- [Cyanvid](https://cyanvid.com/?utm_source=github-shahedbd-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) — AI video generator from text/images with clear credit quotes. `#free`
 
 ### AI Video Editing & Production
 
 - [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Local-first CLI and MCP toolkit for coding-agent video production with editable `plan.json` timelines. `#opensource` `#free`
 - [Descript](https://descript.com) — Edit video by editing the transcript. Includes Overdub voice cloning, screen recording, and AI captions. `#free`
 - [CapCut](https://capcut.com) — TikTok's AI video editor with auto-captions, effects, and viral templates. `#free`
+- [Barz Studio](https://barzvideo.com/?utm_source=github-shahedbd-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks) — Free browser rap lyric video maker (bring your track; WebM export). `#free`
 - [InVideo AI](https://invideo.io) — Turn text scripts into polished videos with AI voiceovers and stock footage. `#free`
 - [Opus Clip](https://opus.pro) — Automatically repurpose long-form videos into viral short clips. `#free`
 - [Captions](https://captions.ai) — AI video creator with auto-captions, eye contact correction, and translation.
