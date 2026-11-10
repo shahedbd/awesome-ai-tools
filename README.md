@@ -703,6 +703,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Synthesis](https://synthesis.com) — AI-powered math and problem-solving platform for K-12 students.
 - [Socratic (Google)](https://socratic.org) — AI homework helper for students across all subjects. `#free`
 - [Quizlet AI](https://quizlet.com) — AI-powered flashcards, practice tests, and adaptive study guides. `#free`
+- [MathGPT](https://mathssolvergpt.com/en) — Free step-by-step AI math solver for algebra, calculus and word problems. `#free`
 
 ### Cybersecurity
 
