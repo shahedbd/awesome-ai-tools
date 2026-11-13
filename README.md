@@ -202,6 +202,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Lovable](https://lovable.dev) — Build full-stack web apps from a description. Integrates with Supabase and GitHub. `#free`
 - [Tempo Labs](https://tempolabs.ai) — AI-powered React app builder with visual editing and live preview.
 - [Webcrumbs Frontend AI](https://webcrumbs.org) — Generate React components from screenshots or text descriptions. `#free`
+- [Kleap](https://kleap.co/ai-website-generator) - AI website generator that builds a complete, editable website or app from a plain-language description. `#free`
 
 ### Code Review & Quality
 
