@@ -183,6 +183,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Replit Agent](https://replit.com/ai) — Build and deploy full-stack apps from natural language, entirely in the browser. `#free`
 - [Amazon Q Developer](https://aws.amazon.com/q/developer/) — AWS's AI coding assistant with deep AWS service integration. `#free`
 - [Zed](https://zed.dev) — High-performance editor with built-in AI collaboration features. `#opensource` `#free`
+- [Althar](https://github.com/AltharIDE/althar) — Desktop ADE that assigns requests to coding agents and routes their changes to another model for review. `#opensource`
 
 ### Autonomous Coding Agents
 
