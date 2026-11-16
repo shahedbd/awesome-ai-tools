@@ -290,6 +290,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 ### Specialized Image Tools
 
 - [Headshot Pro](https://headshotpro.com) — Generate professional AI headshots from casual photos.
+- [Narkis.ai](https://narkis.ai) — Trains a personal AI model on 15-20 of your selfies, then makes headshots, LinkedIn photos and Tinder/Hinge/Bumble dating photos. From $27 one-time for up to 200 photos, no subscription.
 - [PhotoOmni](https://photoomni.com/en) — Prepare passport and visa photos with country-specific checks for dimensions, background, face positioning, and image quality, plus optional expert review.
 - [StockPhotoAI](https://stockphotoai.net) — Generate royalty-free stock photos on demand for any use case.
 - [VectorArt.ai](https://vectorart.ai) — Create clean, scalable vector images with AI.
