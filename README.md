@@ -352,6 +352,7 @@ Consumer-facing AI assistants for everyday tasks, research, and conversation.
 - [Deepgram](https://deepgram.com) — Real-time and batch transcription with industry-leading low latency.
 - [Otter.ai](https://otter.ai) — Meeting transcription with speaker identification and automated action items. `#free`
 - [Rev AI](https://rev.ai) — Automated and human-verified transcription services for any use case.
+- [EarScribe](https://earscribe.app) — Free in-browser Whisper transcription with SRT/VTT export, no uploads or signup. `#opensource` `#free`
 
 ### AI Music Generation
 
