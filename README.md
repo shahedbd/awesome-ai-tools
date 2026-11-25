@@ -693,6 +693,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Ramp](https://ramp.com) — AI-powered corporate card and intelligent expense management.
 - [Trullion](https://trullion.com) — AI accounting and financial reporting automation.
 - [FinChat](https://finchat.io) — AI for analyzing public company financials and earnings. `#free`
+- [FlowFeed](https://flowfeed.cc) — Real-time macro, forex and crypto news and economic calendar for AI assistants via a hosted MCP server.
 
 ### Education
 
