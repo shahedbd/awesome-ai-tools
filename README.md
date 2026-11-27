@@ -532,7 +532,7 @@ MCP is an open standard by Anthropic for connecting AI models to external data s
 - [Connected Papers](https://connectedpapers.com) — Visualize citation connections between academic papers. `#free`
 - [Sourcely](https://sourcely.net) — AI-powered academic citation finder for students and researchers. `#free`
 - [MemFree](https://memfree.me) — Open-source hybrid AI search for the internet, bookmarks, and personal docs. `#opensource` `#free`
--  [JournalCompass](https://journalcompass.com) — Free bilingual search across 43,499 SCI/SSCI journals with CAS quartile, impact factor, review time, and APC, plus AI journal matching to help researchers choose where to submit. `#free`
+- [JournalCompass](https://journalcompass.com) — Free bilingual search across 43,499 SCI/SSCI journals with CAS quartile, impact factor, review time, and APC, plus AI journal matching to help researchers choose where to submit. `#free`
 
 ---
 
